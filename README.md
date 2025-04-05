@@ -1,5 +1,4 @@
-# Assignments
-Various school programs
+# Comp-Sci 303 Assignment 2
 
 First Assignment Section (Implementation of linked list functionality)
 
